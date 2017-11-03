@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes4u</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+</resources>
